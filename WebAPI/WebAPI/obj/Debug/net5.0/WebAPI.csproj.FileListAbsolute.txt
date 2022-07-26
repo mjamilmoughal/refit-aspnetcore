@@ -1,0 +1,7 @@
+E:\Jamil\Refit Library\Refit Library\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+E:\Jamil\Refit Library\Refit Library\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Jamil\Refit Library\Refit Library\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+E:\Jamil\Refit Library\Refit Library\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+E:\Jamil\Refit Library\Refit Library\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Jamil\Refit Library\Refit Library\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Jamil\Refit Library\Refit Library\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
